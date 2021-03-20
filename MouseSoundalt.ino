@@ -3,7 +3,7 @@
 
 MrBaddeley printed droids - www.patreon.com/mrbaddeley www.facebook.com/groups/mrbaddeley
 This sketch is to control the sound on the full scale MSE-6 Mouse Droid
-This code is using a Nano, AltSoftserial on pins 10 and 11, and a DF Player. 
+This code is using a Nano, AltSoftserial on pins 8 and 9, and a DF Player. 
 
 AltSoftSerial has sorted a few issues with interupts out for me on the code, allowing me to accurately read all the inputs. 
 
